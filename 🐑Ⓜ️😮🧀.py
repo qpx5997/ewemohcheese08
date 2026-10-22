@@ -1,6 +1,7 @@
 import time
 from pathlib import Path
 import traceback
+import random
 
 # Set variables, lists, dictionaries
 variables = {}
@@ -90,6 +91,8 @@ while i <= len(codelines): # it has to be a while loop so loops work properly
                 variables[linesegs[1]] = variables[linesegs[2][1:]]
             elif linesegs[2] == "⌨️": # put this to set it to the most recent user input
                 variables[linesegs[1]] = most_recent_answer
+            elif linesegs[2] == "🎲": # random!!!!
+                variables[linesegs[1]] = random.randint(int(linesegs[3]), int(linesegs[4]))
             else:
                 if linesegs[2][0] == "🔢": # put 🔢 at the front to show its an integer
                     variables[linesegs[1]] = int(linesegs[2][1:])
