@@ -303,7 +303,28 @@ just put this:
 
 so say the user inputted 7, now `a` will be 7 because of the above line of code.
 
-## chapter 9: LOUPS
+## chapter 9: Я@ᴎđ0M!!!
+
+FINALLY
+
+THE LONG AWAITED
+
+**Я@ᴎđ0M!!!**
+
+You can Я@ᴎđ0M ONYL with VARIAVLES:
+
+```
+📦⏩a⏩🎲⏩1⏩6
+🖨️⏩📦a
+```
+
+variable `a` gets a value of random from 1 to 6, then it PRINTS `a`!
+
+You need to place 🎲 after the variable name and then define the rangE
+
+THIS ONLY WORKS VITH VARIBALES, YOU CANT DIRECTLY PRINT A RANDOM, YOU HAVE TO ASSIGN IT TO A VARIBALE FIRST **BECAUS*E I*M LA**Z***Y***
+
+## chapter 10: LOUPS
 
 LOUPS make you loup a lot. basically makes it run over the asame code many many many times!!!!!!!!!
 
@@ -327,7 +348,7 @@ it prints I <3 🐑Ⓜ️😮🧀 3 times. and ⬆️ shows the end of the loop.
 
 ok
 
-## chapter 10: ETERNALITY
+## chapter 11: ETERNALITY
 
 make epople go in ETERNALITY. using the **🔄️**
 
@@ -343,7 +364,7 @@ BUTT! because this is pythob u can eazily get yourself out of the plight by pres
 
 also this can allow for while loops whonce i add the if in the future!!! so uhh yeah buye
 
-## chapter 11: eendentayshun
+## chapter 12: eendentayshun
 
 sumtymes your code has so many loups or ifs!!! that its hard to tell which line s of code belong to which loup! so from v0.7 onwardds., we will start allowing ***INDENTATION!!!***
 
@@ -362,7 +383,7 @@ EcxAMPLE OF INDENTATION!!
 ⬆️
 ```
 
-## chapter 12: what if???
+## chapter 13: what if???
 Have you ever looked at Cycles and just thought to yourself, "What if this was an extreme demo-- oh wait sorry wrong script lol
 
 Have you ever looked at your program and wondered "what if it could do a thing and another make choices branch possibilities endless creativity if greater than operators bitwise xor operator turing completeness if?"
@@ -395,7 +416,7 @@ AND NESTED IFS WORK FOR ALL YOUR NESTING NEEDS
 
 and also u r only alowed to compare variables bcs i was lazy. greater than and less than comin' soon lol!
 
-## chapter 13: exiting
+## chapter 14: exiting
 
 if u want your program to END ALREADY BEFORE IT FINISHES RUNNING, just put
 
@@ -405,7 +426,7 @@ if u want your program to END ALREADY BEFORE IT FINISHES RUNNING, just put
 
 it ends the code!
 
-## chapter 14:erors,oof!!!
+## chapter 15:erors,oof!!!
 
 oh no!!! erors exist in 🐑Ⓜ️😮🧀 u know!!!
 
@@ -452,7 +473,7 @@ this is rthe **WORSTEST *SIN*** **OF ALL!!** its **VERY BA**D!!! the thing u did
 
 # This is why u should never do this kind of thing!!! dont u ever do this!!! maek sure all ur file s are ending with .🐑Ⓜ️😮🧀 and not anything else!!!!!!!!!!!!!!!!
 
-## chapter 15: u can do stuff
+## chapter 16: u can do stuff
 
 coagulations u just finished this! go on and code!!!!!!!!!!!!!!!!!!!
 
@@ -482,7 +503,7 @@ qpx5997
 
 .bye!!
 
-## Chapter 16: versions
+## Chapter 17: versions
 
 v0.1 (08/03/2026): first demo ver!!!!!!
 
@@ -499,3 +520,7 @@ v0.6 (02/04/2026): smol bugfix
 v0.7 (04/04/2026): allowed indentation
 
 v0.8 (20/07/2026): Added IF (but only with the = operator)!!!!!
+
+v0.9 (22/10/2026): Added random!!!
+
+v0.91 (22/10/2026): updated the version number in the program so it shows v0.91 not v0.8 im such a forgetful fellow
